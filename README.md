@@ -1,0 +1,2 @@
+# Disaster-Mortality-Forecasting-Prophet
+ A data science project utilizing Facebook's Prophet model to forecast disaster-related mortality rates across different countries and regions. This repository contains code and analysis for predicting mortality trends from 2024-2030, incorporating historical disaster data, seasonal patterns, and socioeconomic factors. The project aims to support evidence-based disaster preparedness and risk reduction strategies worldwide. 
